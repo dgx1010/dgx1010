@@ -1,1 +1,1 @@
-Atualmente desenvolvendo projetos em python e C#.
+Atualmente desenvolvendo projetos em python e Java.
